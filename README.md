@@ -2,7 +2,6 @@
 Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or submit something [via this Google form](https://forms.gle/9rc6JFsvE1nrMhLG9).
 
 ## Reflections on multilingual DH
-* Berra, Aurélien et al. "[Éditorial. Donner à lire les humanités numériques francophones](https://journals.openedition.org/revuehn/507)". *Humanités numériques*, 2020
 * Clavert, Frédéric. "[The Digital Humanities Multicultural Revolution Did Not Happen Yet](https://histnum.hypotheses.org/1546)". *L’histoire contemporaine à l’ère numérique*. 2013.
 * Dacos, Marin. "[La Stratégie Du Sauna Finlandais: Les Frontières Des Digital Humanitie](http://www.digitalstudies.org/articles/10.16995/dscn.41)". *Digital Studies*, 2016.
 * Dombrowski, Quinn and Patrick Burns. "Language is Not a Default Setting". Forthcoming in *Debates in the Digital Humanities 2021*.
@@ -18,8 +17,11 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Spence, Paul. "[Centros y fronteras: el panorama internacional](https://www.janusdigital.es/anexos/contribucion.htm?id=6)". Janus, anexo 1, 2014.
 
 ## DH in local contexts
+* Berra, Aurélien et al. "[Éditorial. Donner à lire les humanités numériques francophones](https://journals.openedition.org/revuehn/507)". *Humanités numériques*, 2020
+* Cha, Javier. "[Digital Korean studies: recent advances and new frontiers](https://doi.org/10.1108/DLP-04-2018-0013)". *Digital Library Perspectives*, Vol. 34 No. 3, pp. 227-244.
 * Fiormonte, Domenico and Gimena del Rio Riande. [¿Por qué las Humanidades Digitales necesitan al sur?](https://www.aacademica.org/gimena.delrio.riande/147). Actas del II Congreso de la AAHD. 2018.
 * O'Sullivan, James. "[The Digital Humanities in Ireland](http://doi.org/10.16995/dscn.374)". *Digital Studies/Le champ numérique*, 10(1).
+* Skorinkin, Daniil. "[Digital Humanities in Russia: A View from the Inside](https://danilsko.github.io/slides/elmanuscript21/elmanuscript_keynote#/)". El'Manuscript keynote, 2021.
 * Wang, Xiaoguang, Xu Tan, and Huinan Li. "[The Evolution of Digital Humanities in China](https://muse.jhu.edu/article/774337)". *Library Trends*, Volume 69, Number 1, Summer 2020.
 
 ## Multilingual DH in the classroom
