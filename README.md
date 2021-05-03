@@ -2,16 +2,25 @@
 Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or submit something [via this Google form](https://forms.gle/9rc6JFsvE1nrMhLG9).
 
 ## Reflections on multilingual DH
+* Berra, Aurélien et al. "[Éditorial. Donner à lire les humanités numériques francophones](https://journals.openedition.org/revuehn/507)". *Humanités numériques*, 2020
 * Clavert, Frédéric. "[The Digital Humanities Multicultural Revolution Did Not Happen Yet](https://histnum.hypotheses.org/1546)". *L’histoire contemporaine à l’ère numérique*. 2013.
 * Dacos, Marin. "[La Stratégie Du Sauna Finlandais: Les Frontières Des Digital Humanitie](http://www.digitalstudies.org/articles/10.16995/dscn.41)". *Digital Studies*, 2016.
 * Dombrowski, Quinn and Patrick Burns. "Language is Not a Default Setting". Forthcoming in *Debates in the Digital Humanities 2021*.
 * Dombrowski, Quinn and Pedro Fernandez. "Multilingual DH". Forthcoming in *Bloomsbury Handbook to the Digital Humanities*.
-* Fiormonte, Domenico. "[Towards monocultural (digital) Humanities?](https://infolet.it/2015/07/12/monocultural-humanities/)". Infolet no. 7, 2015.
+* Fiormonte, Domenico. "[Dreaming of multiculturalism at DH2014](https://infolet.it/2014/07/07/dreaming-of-multiculturalism-at-dh2014/)". *Infolet* no. 6, 2014.
+* Fiormonte, Domenico. "[Humanidades Digitales y diversidad cultural](https://infolet.it/2014/02/01/humanidades-digitales-y-diversidad-cultural/)". *Infolet*, no. 6, 2014.
+* Fiormonte, Domenico. "[Towards monocultural (digital) Humanities?](https://infolet.it/2015/07/12/monocultural-humanities/)". *Infolet* no. 7, 2015.
 * Fiormonte, Domenico. "Towards a Cultural Critique of the Digital Humanities". *Historical Social Research / Historische Sozialforschung* 37 (3): 59–76.
 * Galina, Isabel. "[Is There Anybody Out There? Building a Global Digital Humanities Community](http://humanidadesdigitales.net/blog/2013/07/19/is-there-anybody-out-there-building-a-global-digital-humanities-community)". *Humanidades digitales*, 2013.
 * Gil, Alex and Élika Ortega. "Global Outlooks in Digital Humanities". In Crompton, C., Lane, R.J., and Siemens, R. eds. *Doing Digital Humanities: Practice, Training, Research*. London: Routledge.
 * Ortega, Élika. "[Multilingualism in DH](http://www.disruptingdh.com/multilingualism-in-dh/)". *Disrupting the Digital Humanities: 2015 MLA Position Papers*. December 31, 2015.
+* del Rio Riande, Gimena. "[¿De qué hablamos cuando hablamos de Humanidades Digitales?](https://www.aacademica.org/jornadasaahd/3)". *Jornadas Nacionales de Humanidades Digitales*. Asociación Argentina de Humanidades Digitales, Buenos Aires, 2014.
 * Spence, Paul. "[Centros y fronteras: el panorama internacional](https://www.janusdigital.es/anexos/contribucion.htm?id=6)". Janus, anexo 1, 2014.
+
+## DH in local contexts
+* Fiormonte, Domenico and Gimena del Rio Riande. [¿Por qué las Humanidades Digitales necesitan al sur?](https://www.aacademica.org/gimena.delrio.riande/147). Actas del II Congreso de la AAHD. 2018.
+* O'Sullivan, James. "[The Digital Humanities in Ireland](http://doi.org/10.16995/dscn.374)". *Digital Studies/Le champ numérique*, 10(1).
+* Wang, Xiaoguang, Xu Tan, and Huinan Li. "[The Evolution of Digital Humanities in China](https://muse.jhu.edu/article/774337)". *Library Trends*, Volume 69, Number 1, Summer 2020.
 
 ## Multilingual DH in the classroom
 * Cro, Melinda A. and Sara K. Kearns. "[Developing a Process-Oriented, Inclusive Pedagogy: At the Intersection of Digital Humanities, Second Language Acquisition, and New Literacies](http://www.digitalhumanities.org/dhq/vol/14/1/000443/000443.html)". *Digital Humanities Quarterly* vol. 14, no. 1. 2020.
