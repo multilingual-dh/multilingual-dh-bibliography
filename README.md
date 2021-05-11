@@ -13,6 +13,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Galina, Isabel. "[Is There Anybody Out There? Building a Global Digital Humanities Community](http://humanidadesdigitales.net/blog/2013/07/19/is-there-anybody-out-there-building-a-global-digital-humanities-community)". *Humanidades digitales*, 2013.
 * Gil, Alex and Élika Ortega. "Global Outlooks in Digital Humanities". In Crompton, C., Lane, R.J., and Siemens, R. eds. *Doing Digital Humanities: Practice, Training, Research*. London: Routledge.
 * Ortega, Élika. "[Multilingualism in DH](http://www.disruptingdh.com/multilingualism-in-dh/)". *Disrupting the Digital Humanities: 2015 MLA Position Papers*. December 31, 2015.
+* Ortega, Élika. "[Zonas de Contacto: A Digital Humanities Ecology of Knowledges](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15)". In *Debates in DH 2019*.
 * del Rio Riande, Gimena. "[¿De qué hablamos cuando hablamos de Humanidades Digitales?](https://www.aacademica.org/jornadasaahd/3)". *Jornadas Nacionales de Humanidades Digitales*. Asociación Argentina de Humanidades Digitales, Buenos Aires, 2014.
 * Spence, Paul. "[Centros y fronteras: el panorama internacional](https://www.janusdigital.es/anexos/contribucion.htm?id=6)". Janus, anexo 1, 2014.
 
@@ -31,6 +32,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Grandjean, Martin. "[Le Rêve Du Multilinguisme Dans La Science : L’exemple (Malheureux) Du Colloque #DH2014.](http://www.martingrandjean.ch/multilinguisme-dans-la-science-dh2014/)". 2014.
 * Ortega, Élika. "[Whispering/Translating During DH 2014: Five Things We Learned](https://elikaortegadotnet.wordpress.com/2014/07/21/dhwhisperer/)". July 21, 2014.
 * Ortega, Élika. "[Local and International Scalability in DH](https://web.archive.org/web/20140714103841/http://lectoresdeficcion.blogs.cultureplex.ca/2014/07/02/scalability/)". July 14, 2014.
+* Potvin, S., Ortega, É., Galina, I., Gil, A., O'Donnell, D., Williams, P., Borovsky, Z., Shirazi, R., Coble, Z., Worthey, G. (2016). "[Translation Hack-a-thon!: Applying the Translation Toolkit to a Global dh+lib](https://dh2016.adho.org/abstracts/344)". In Digital Humanities 2016: Conference Abstracts. Jagiellonian University & Pedagogical University, Kraków, pp. 941-943.
 * Sichani, Anna-Maria. "[Linguistic diversity and Ad-hoc translation of the Programming Historian’s lessons](https://programminghistorian.org/posts/ad-hoc-translation)". November 30, 2018.
 
 ## Tutorials
