@@ -10,8 +10,10 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Fiormonte, Domenico. "[Humanidades Digitales y diversidad cultural](https://infolet.it/2014/02/01/humanidades-digitales-y-diversidad-cultural/)". *Infolet*, no. 6, 2014.
 * Fiormonte, Domenico. "[Towards monocultural (digital) Humanities?](https://infolet.it/2015/07/12/monocultural-humanities/)". *Infolet* no. 7, 2015.
 * Fiormonte, Domenico. "Towards a Cultural Critique of the Digital Humanities". *Historical Social Research / Historische Sozialforschung* 37 (3): 59–76.
+* Galina, Isabel. "[Geographical and Linguistic Diversity in the Digital Humanities](https://doi.org/10.1093/llc/fqu005)". Literary and Linguistic Computing, 29(3): 307-16.
 * Galina, Isabel. "[Is There Anybody Out There? Building a Global Digital Humanities Community](http://humanidadesdigitales.net/blog/2013/07/19/is-there-anybody-out-there-building-a-global-digital-humanities-community)". *Humanidades digitales*, 2013.
-* Gil, Alex and Élika Ortega. "Global Outlooks in Digital Humanities". In Crompton, C., Lane, R.J., and Siemens, R. eds. *Doing Digital Humanities: Practice, Training, Research*. London: Routledge.
+* Gil, Alex. "[The (Digital) Library of Babel](https://www.elotroalex.com/digital-library-babel/)". June 7, 2014.
+* Gil, Alex and Élika Ortega. "[Global Outlooks in Digital Humanities](https://www.dropbox.com/s/np0qv8exfrwluvb/DoingDigitalHumanitiesGODHchapter.pdf?dl=0)". In Crompton, C., Lane, R.J., and Siemens, R. eds. *Doing Digital Humanities: Practice, Training, Research*. London: Routledge.
 * Ortega, Élika. "[Multilingualism in DH](http://www.disruptingdh.com/multilingualism-in-dh/)". *Disrupting the Digital Humanities: 2015 MLA Position Papers*. December 31, 2015.
 * Ortega, Élika. "[Zonas de Contacto: A Digital Humanities Ecology of Knowledges](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15)". In *Debates in DH 2019*.
 * del Rio Riande, Gimena. "[¿De qué hablamos cuando hablamos de Humanidades Digitales?](https://www.aacademica.org/jornadasaahd/3)". *Jornadas Nacionales de Humanidades Digitales*. Asociación Argentina de Humanidades Digitales, Buenos Aires, 2014.
@@ -20,7 +22,9 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 ## DH in local contexts
 * Berra, Aurélien et al. "[Éditorial. Donner à lire les humanités numériques francophones](https://journals.openedition.org/revuehn/507)". *Humanités numériques*, 2020
 * Cha, Javier. "[Digital Korean studies: recent advances and new frontiers](https://doi.org/10.1108/DLP-04-2018-0013)". *Digital Library Perspectives*, Vol. 34 No. 3, pp. 227-244.
+* [Current Trends in Digital East Asian Studies](https://www.youtube.com/watch?v=51D3C-3XHZQ&ab_channel=DigitalModernLanguages) (YouTube): CJ Chen (Nanjing University), Hilde De Weerdt (Leiden University), Lik Hang Tsui (City University of Hong Kong), Kiyonori Nagasaki (International Institute for Digital Humanities, Tokyo). April 29, 2021.
 * Fiormonte, Domenico and Gimena del Rio Riande. [¿Por qué las Humanidades Digitales necesitan al sur?](https://www.aacademica.org/gimena.delrio.riande/147). Actas del II Congreso de la AAHD. 2018.
+* Galina, Isabel et al. "[La RedHD y contextos latinoamericanos: auto-representación y geopolítica en las HD](http://humanidadesdigitales.net/blog/2015/02/02/la-redhd-y-contextos-latinoamericanos-auto-representacion-y-geopolitica-en-las-hd/)". *Humanidades Digitales*. Also published in translation as "[RedHD and Latin American Contexts: Self-Representation and Geopolitics](https://acrl.ala.org/dh/2015/02/02/redhd-and-latin-american-contexts-self-representation-and-geopolitics-in-dh/)", dh+lib. February 2, 2015.
 * O'Sullivan, James. "[The Digital Humanities in Ireland](http://doi.org/10.16995/dscn.374)". *Digital Studies/Le champ numérique*, 10(1).
 * Skorinkin, Daniil. "[Digital Humanities in Russia: A View from the Inside](https://danilsko.github.io/slides/elmanuscript21/elmanuscript_keynote#/)". El'Manuscript keynote, 2021.
 * Wang, Xiaoguang, Xu Tan, and Huinan Li. "[The Evolution of Digital Humanities in China](https://muse.jhu.edu/article/774337)". *Library Trends*, Volume 69, Number 1, Summer 2020.
@@ -42,6 +46,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 ## Projects
 DH projects that are working across multiple languages, beyond building [corpora](https://github.com/multilingual-dh/multilingual-corpora). 
 
+* [Around DH in 80 Days](https://arounddh.elotroalex.com/), Alex Gil et al.
 * [Data-Sitters Club Multilingual Mysteries](https://datasittersclub.github.io/site/books#multilingual-mysteries) - friendly, fun tutorials on multilingual text analysis, using translations of Ann M. Martin's 80's and 90's girls' series *The Baby-Sitters Club*.
 * [Langauge Acts and Worldmaking](https://languageacts.org/) - Paul Spence, Renata Brandao et al., "aims to regenerate and transform modern language learning by foregrounding language's power to shape how we live and make our worlds."
 * [New Languages for NLP](https://newnlp.princeton.edu/) - Natalia Ermolaev, Andrew Janco, Toma Tasovac et al. Workshop to teach humanists how to build NLP models for under-resourced languages using spaCy
