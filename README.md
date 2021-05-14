@@ -1,5 +1,5 @@
 # Multilingual DH bibliography
-Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or submit something [via this Google form](https://forms.gle/9rc6JFsvE1nrMhLG9).
+Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or you can submit something [via this Google form](https://forms.gle/9rc6JFsvE1nrMhLG9).
 
 ## Reflections on multilingual DH
 * Clavert, Frédéric. "[The Digital Humanities Multicultural Revolution Did Not Happen Yet](https://histnum.hypotheses.org/1546)". *L’histoire contemporaine à l’ère numérique*. 2013.
