@@ -20,6 +20,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Spence, Paul. "[Centros y fronteras: el panorama internacional](https://www.janusdigital.es/anexos/contribucion.htm?id=6)". Janus, anexo 1, 2014.
 
 ## DH in local contexts
+* CJ Chen (Nanjing University), Hilde De Weerdt (Leiden University), Lik Hang Tsui (City University of Hong Kong), Kiyonori Nagasaki (International Institute for Digital Humanities, Tokyo). "[Current Trends in Digital East Asian Studies](https://www.youtube.com/watch?v=51D3C-3XHZQ&ab_channel=DigitalModernLanguages)" (video). Digital Modern Languages seminar series convened by Paul Spence (King’s College London) and Naomi Wells (Institute of Modern Languages Research). 
 * Berra, Aurélien et al. "[Éditorial. Donner à lire les humanités numériques francophones](https://journals.openedition.org/revuehn/507)". *Humanités numériques*, 2020
 * Cha, Javier. "[Digital Korean studies: recent advances and new frontiers](https://doi.org/10.1108/DLP-04-2018-0013)". *Digital Library Perspectives*, Vol. 34 No. 3, pp. 227-244.
 * [Current Trends in Digital East Asian Studies](https://www.youtube.com/watch?v=51D3C-3XHZQ&ab_channel=DigitalModernLanguages) (YouTube): CJ Chen (Nanjing University), Hilde De Weerdt (Leiden University), Lik Hang Tsui (City University of Hong Kong), Kiyonori Nagasaki (International Institute for Digital Humanities, Tokyo). April 29, 2021.
