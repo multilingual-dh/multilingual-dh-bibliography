@@ -32,6 +32,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 
 ## Multilingual DH in the classroom
 * Cro, Melinda A. and Sara K. Kearns. "[Developing a Process-Oriented, Inclusive Pedagogy: At the Intersection of Digital Humanities, Second Language Acquisition, and New Literacies](http://www.digitalhumanities.org/dhq/vol/14/1/000443/000443.html)". *Digital Humanities Quarterly* vol. 14, no. 1. 2020.
+* Davis, Rebecca F.  and Carl S. Blyth. "[10 Towards a Pedagogy of Openness: Bridging English-language and Foreign-language Digital Humanities](https://doi.org/10.21832/9781800411005-012). In *Open Education and Second Language Learning and Teaching*, 2021.
 
 ## Language and conferences / publications
 * Grandjean, Martin. "[Le Rêve Du Multilinguisme Dans La Science : L’exemple (Malheureux) Du Colloque #DH2014.](http://www.martingrandjean.ch/multilinguisme-dans-la-science-dh2014/)". 2014.
