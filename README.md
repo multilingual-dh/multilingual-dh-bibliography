@@ -5,7 +5,8 @@ Articles, blog posts, etc. related to multilingual DH, sorted chronologically (t
 * Isasi, Jennifer and Antonio Rojas Castro. "[¿Sin equivalencia? Una reflexión sobre la traducción al español de recursos educativos abiertos](https://muse.jhu.edu/article/842253)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * Allés-Torrent, Susanna, Megan Jeanette Meyers, and Élika Ortega. "[New Dialogues in Spanish and Portuguese Studies: Pedagogical and Theoretical Perspectives from the Digital Humanities](https://muse.jhu.edu/article/842247)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * Arriaga, Eduard. "[Culturas digitales afrolatinxs y afrolatinoamericanas: De la recuperación histórica a la humanización digital](https://muse.jhu.edu/article/842248)". *Hispania*, vol. 104, no. 8, Dec 2021.
-* Spence, Paul and Renata Brandao. "[Towards Language Sensitivity and Diversity in the Digital Humanities](https://www.digitalstudies.org/article/id/8098/)". *Digital Studies / Le champ numérique* 11(1). 2021.
+* Spence, Paul, Renata Brandão, Naomi Wells. "[Disrupting Digital Monolingualism: A report on multilingualism in digital theory and practice](https://zenodo.org/record/5743283#.Ydi7zxPMLt0)". December 9, 2021.
+* Spence, Paul and Renata Brandão. "[Towards Language Sensitivity and Diversity in the Digital Humanities](https://www.digitalstudies.org/article/id/8098/)". *Digital Studies / Le champ numérique* 11(1). 2021.
 * Dombrowski, Quinn and Pedro Fernandez. "Multilingual DH". Forthcoming in *Bloomsbury Handbook to the Digital Humanities*. (Email Quinn for a draft!)
 * Dombrowski, Quinn and Patrick Burns. "Language is Not a Default Setting". Forthcoming in *Debates in the Digital Humanities 2021*. (Email Quinn for a draft!)
 * Ortega, Élika. "[Zonas de Contacto: A Digital Humanities Ecology of Knowledges](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15)". In *Debates in DH 2019*. 2019.
