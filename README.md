@@ -17,6 +17,7 @@ Articles, blog posts, etc. related to multilingual DH. Pull requests welcome, or
 * Ortega, Élika. "[Multilingualism in DH](http://www.disruptingdh.com/multilingualism-in-dh/)". *Disrupting the Digital Humanities: 2015 MLA Position Papers*. December 31, 2015.
 * Ortega, Élika. "[Zonas de Contacto: A Digital Humanities Ecology of Knowledges](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/aeee46e3-dddc-4668-a1b3-c8983ba4d70a#ch15)". In *Debates in DH 2019*.
 * del Rio Riande, Gimena. "[¿De qué hablamos cuando hablamos de Humanidades Digitales?](https://www.aacademica.org/jornadasaahd/3)". *Jornadas Nacionales de Humanidades Digitales*. Asociación Argentina de Humanidades Digitales, Buenos Aires, 2014.
+* Spence, Paul and Renata Brandao. "[Towards Language Sensitivity and Diversity in the Digital Humanities](https://www.digitalstudies.org/article/id/8098/)". *Digital Studies / Le champ numérique* 11(1). 2021.
 * Spence, Paul. "[Centros y fronteras: el panorama internacional](https://www.janusdigital.es/anexos/contribucion.htm?id=6)". Janus, anexo 1, 2014.
 
 ## DH in local contexts
