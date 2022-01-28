@@ -37,12 +37,13 @@ Articles, blog posts, etc. related to multilingual DH, sorted chronologically (t
 * Fiormonte, Domenico and Gimena del Rio Riande. [¿Por qué las Humanidades Digitales necesitan al sur?](https://www.aacademica.org/gimena.delrio.riande/147). Actas del II Congreso de la AAHD. 2018.
 * Galina, Isabel et al. "[La RedHD y contextos latinoamericanos: auto-representación y geopolítica en las HD](http://humanidadesdigitales.net/blog/2015/02/02/la-redhd-y-contextos-latinoamericanos-auto-representacion-y-geopolitica-en-las-hd/)". *Humanidades Digitales*. Also published in translation as "[RedHD and Latin American Contexts: Self-Representation and Geopolitics](https://acrl.ala.org/dh/2015/02/02/redhd-and-latin-american-contexts-self-representation-and-geopolitics-in-dh/)", dh+lib. February 2, 2015.
 
-
 ## Multilingual DH in the classroom
 * Benedict, Nora. "[The Risks and Rewards of Implementing Digital Humanities Methodologies in Modern Language Graduate Research](https://muse.jhu.edu/article/842250)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * Davis, Rebecca F.  and Carl S. Blyth. "[10 Towards a Pedagogy of Openness: Bridging English-language and Foreign-language Digital Humanities](https://doi.org/10.21832/9781800411005-012). In *Open Education and Second Language Learning and Teaching*, 2021.
 * Cro, Melinda A. and Sara K. Kearns. "[Developing a Process-Oriented, Inclusive Pedagogy: At the Intersection of Digital Humanities, Second Language Acquisition, and New Literacies](http://www.digitalhumanities.org/dhq/vol/14/1/000443/000443.html)". *Digital Humanities Quarterly* vol. 14, no. 1. 2020.
 
+## Multilingual DH and other methods
+* McDonough, Katherine, Ludovic Moncla, and Matje van de Camp. “[Named entity recognition goes to old regime France: geographic text analysis for early modern French corpora](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1620235)”. International Journal of Geographical Information Science, vol. 33, issue 12, 2019. doi: 10.1080/13658816.2019.1620235
 
 ## Language and conferences / publications
 * Sichani, Anna-Maria. "[Linguistic diversity and Ad-hoc translation of the Programming Historian’s lessons](https://programminghistorian.org/posts/ad-hoc-translation)". November 30, 2018.
