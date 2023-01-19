@@ -2,6 +2,9 @@
 Articles, blog posts, etc. related to multilingual DH, sorted chronologically (then alphabetially). Pull requests welcome, or you can submit something [via this Google form](https://forms.gle/9rc6JFsvE1nrMhLG9).
 
 ## Reflections on multilingual DH
+
+* Nilsson-Fernàndez, Pedro and Quinn Dombrowski. "[Multilingual Digital Humanities](https://cora.ucc.ie/handle/10468/14084)" in *The Bloomsbury Handbook to the Digital Humanities*, ed. James O'Sullivan. New York: Bloomsbury Publishing, pp. 81-90. (**note**: chapter embargoed until June 2023.)
+* 
 * Isasi, Jennifer and Antonio Rojas Castro. "[¿Sin equivalencia? Una reflexión sobre la traducción al español de recursos educativos abiertos](https://muse.jhu.edu/article/842253)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * Allés-Torrent, Susanna, Megan Jeanette Meyers, and Élika Ortega. "[New Dialogues in Spanish and Portuguese Studies: Pedagogical and Theoretical Perspectives from the Digital Humanities](https://muse.jhu.edu/article/842247)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * Arriaga, Eduard. "[Culturas digitales afrolatinxs y afrolatinoamericanas: De la recuperación histórica a la humanización digital](https://muse.jhu.edu/article/842248)". *Hispania*, vol. 104, no. 8, Dec 2021.
@@ -26,6 +29,10 @@ Articles, blog posts, etc. related to multilingual DH, sorted chronologically (t
 * Fiormonte, Domenico. "Towards a Cultural Critique of the Digital Humanities". *Historical Social Research / Historische Sozialforschung* 37 (3): 59–76. 2012.
 
 ## DH in local contexts
+* Kizhner, Inna, Melissa Terras, Boris Orekhov, Lev Manovich, Igor Kim, Maxim Rumyantsev, and Anastasia Bonch-Osmolovskaya. "[The History and Context of the Digital Humanities in Russia](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/cd8c97cc-722b-4076-92a8-d4217912aad4#ch05)". In *Global Debates in the Digital Humanities*, ed. Domenico Fiormonte, Sukanta Chaudhuri and Paola Ricaurte. University of Minnesota Press, 2022.
+* Chen, Jing and Lik Hang Tsui. "[Debating and Developing Digital Humanities in China: New or Old?](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/2662518e-42ff-4026-9605-a1c27b4aed27#ch06)". In *Global Debates in the Digital Humanities*, ed. Domenico Fiormonte, Sukanta Chaudhuri and Paola Ricaurte. University of Minnesota Press, 2022.
+* Maryl, Maciej. "[How We Became Digital: The Recent History of Digital Humanities in Poland](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/0d69a812-20f0-4b7f-9b2e-be6d06461f65#ch07)". In *Global Debates in the Digital Humanities*, ed. Domenico Fiormonte, Sukanta Chaudhuri and Paola Ricaurte. University of Minnesota Press, 2022.
+
 * Fernández Quintanilla, Sylvia and Maira E. Álvarez. "[La intersección entre estudios hispánicos y humanidades digitales: El aporte interdisciplinario de Borderlands Archives Cartography](https://muse.jhu.edu/article/842252)" (on DH in Hispanic Studies programs). *Hispania*, vol. 104, no. 8, Dec 2021.
 * Carillo Jara, Daniel. "[Estrategias decoloniales en el archivo digital de la novela peruana: De desastres a celebraciones (1885–1921) y el Norte Global](https://muse.jhu.edu/article/842251)". *Hispania*, vol. 104, no. 8, Dec 2021.
 * CJ Chen (Nanjing University), Hilde De Weerdt (Leiden University), Lik Hang Tsui (City University of Hong Kong), Kiyonori Nagasaki (International Institute for Digital Humanities, Tokyo). "[Current Trends in Digital East Asian Studies](https://www.youtube.com/watch?v=51D3C-3XHZQ&ab_channel=DigitalModernLanguages)" (video). Digital Modern Languages seminar series convened by Paul Spence (King’s College London) and Naomi Wells (Institute of Modern Languages Research).  2021.
